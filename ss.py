@@ -6,3 +6,4 @@ print("add changes 3")
 
 def void():
     print('1')
+    print('one')
